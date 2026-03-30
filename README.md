@@ -20,8 +20,8 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellingtonassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonassis&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellingtonassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonassis&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ---
@@ -35,17 +35,17 @@
 
 ## 🐍 Contribuições
 <div align="center">
-  <img src="https://github.com/wellingtonassis/wellingtonassis/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/wellingtonassis/wellingtonassis/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
 ## 🌐 Contato
 <div> 
-  <a href="https://linkedin.com/in/SEU-LINK" target="_blank">
+  <a href="https://linkedin.com/in/wellington-assis-922065214" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:wellington_assis@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
