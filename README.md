@@ -14,10 +14,10 @@
 - 💻 Specialized in delivering robust architectures and seamless user experiences.
 - 🚀 Deep expertise in **PHP, Node.js, Flutter, and JavaScript**.
 - 📫 Let's connect: 
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/wellington-assis-922065214/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:wellinngton_assis@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 
